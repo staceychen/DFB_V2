@@ -1,0 +1,10 @@
+a,b,a_radius,b_radius,a_lat,a_lng,b_lat,b_lng
+santa rosa,the kremlin,100,100,38.4404,-122.7141,55.752,37.6175
+santa clara,the kremlin,100,100,37.3541,-121.9552,55.752,37.6175
+boston,hong kong,100,100,42.3601,-71.0589,22.3193,114.1694
+new york,the kremlin,100,100,40.7128,-74.006,55.752,37.6175
+san francisco,london,100,100,37.7749,-122.4194,51.5074,0.1278
+paris,san francisco,100,100,48.8566,2.3522,37.7749,-122.4194
+rio de janiero,san francisco,100,100,-22.9068,-43.1729,37.7749,-122.4194
+singapore,san francisco,100,100,1.3521,103.8198,37.7749,-122.4194
+reykjavik,san francisco,100,100,64.1466,-21.9426,37.7749,-122.4194

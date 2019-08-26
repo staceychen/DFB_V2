@@ -1,0 +1,121 @@
+a,b,a_radius,b_radius,a_lat,a_lng,b_lat,b_lng
+Kabul,Maseru,100,100,34.53,69.17,-29.32,27.48
+Tiranë (Tirana),Monrovia,100,100,41.33,19.82,6.3,-10.8
+El Djazaïr (Algiers),Tarabulus (Tripoli),100,100,36.75,3.04,32.88,13.19
+Pago Pago,Vaduz,100,100,-14.28,-170.7,47.14,9.52
+Andorra la Vella,Vilnius,100,100,42.51,1.52,54.69,25.28
+Luanda,Luxembourg,100,100,-8.84,13.23,49.61,6.13
+The Valley,Antananarivo,100,100,18.22,-63.06,-18.91,47.54
+St. John's,Lilongwe,100,100,17.12,-61.85,-13.97,33.79
+Buenos Aires,Kuala Lumpur,100,100,-34.61,-58.4,3.14,101.69
+Yerevan,Male,100,100,40.18,44.51,4.17,73.51
+Oranjestad,Bamako,100,100,12.52,-70.03,12.65,-8
+Canberra,Valletta,100,100,-35.28,149.13,35.9,14.51
+Wien (Vienna),Majuro,100,100,48.21,16.37,7.09,171.38
+Baku,Fort-de-France,100,100,40.38,49.89,14.61,-61.07
+Nassau,Nouakchott,100,100,25.06,-77.34,18.09,-15.98
+Al-Manamah (Manama),Port Louis,100,100,26.22,50.58,-20.16,57.5
+Dhaka,Mamoudzou,100,100,23.71,90.41,-12.78,45.23
+Bridgetown,Ciudad de México (Mexico City),100,100,13.1,-59.62,19.43,-99.14
+Minsk,Palikir,100,100,53.9,27.57,6.92,158.16
+Bruxelles-Brussel,Monaco,100,100,50.85,4.35,43.73,7.42
+Belmopan,Ulaanbaatar,100,100,17.25,-88.77,47.91,106.88
+Cotonou,Podgorica,100,100,6.37,2.42,42.44,19.26
+Porto-Novo,Brades Estate,100,100,6.5,2.6,16.79,-62.21
+Hamilton,Rabat,100,100,32.29,-64.78,34.01,-6.83
+Thimphu,Maputo,100,100,27.47,89.64,-25.97,32.59
+La Paz,Nay Pyi Taw,100,100,-16.5,-68.15,19.75,96.13
+Sucre,Windhoek,100,100,-19.03,-65.26,-22.56,17.08
+Sarajevo,Nauru,100,100,43.85,18.36,-0.53,166.91
+Gaborone,Kathmandu,100,100,-24.65,25.91,27.7,85.32
+Brasília,Amsterdam,100,100,-15.78,-47.93,52.37,4.89
+Road Town,s-Gravenhage (The Hague),100,100,18.42,-64.62,52.08,4.3
+Bandar Seri Begawan,Nouméa,100,100,4.94,114.95,-22.28,166.46
+Sofia,Wellington,100,100,42.7,23.32,-41.29,174.78
+Ouagadougou,Managua,100,100,12.36,-1.54,12.13,-86.25
+Bujumbura,Niamey,100,100,-3.38,29.36,13.51,2.11
+Praia,Abuja,100,100,14.92,-23.51,9.06,7.49
+Phnum Pénh (Phnom Penh),Alofi,100,100,11.56,104.92,-19.06,-169.92
+Yaoundé,Saipan,100,100,3.87,11.52,15.21,145.75
+Ottawa-Gatineau,Oslo,100,100,45.42,-75.7,59.91,10.75
+Kralendijk,Masqat (Muscat),100,100,12.15,-68.27,23.61,58.59
+George Town,Islamabad,100,100,19.29,-81.37,33.7,73.06
+Bangui,Koror,100,100,4.36,18.55,7.34,134.48
+N'Djaména,Ciudad de Panamá (Panama City),100,100,12.11,15.04,9,-79.52
+St. Helier,Port Moresby,100,100,49.19,-2.1,-9.44,147.18
+St. Peter Port,Asunción,100,100,49.46,-2.54,-25.3,-57.64
+Santiago,Lima,100,100,-33.46,-70.65,-12.04,-77.03
+Beijing,Manila,100,100,39.91,116.4,14.6,120.98
+Hong Kong,Warszawa (Warsaw),100,100,22.28,114.19,52.23,21.01
+Macao,Lisboa (Lisbon),100,100,22.2,113.55,38.72,-9.14
+Bogotá,San Juan,100,100,4.61,-74.08,18.47,-66.11
+Moroni,Ad-Dawhah (Doha),100,100,-11.7,43.26,25.27,51.52
+Brazzaville,Seoul,100,100,-4.27,15.28,37.57,126.98
+Rarotonga,Chişinău,100,100,-21.23,-159.76,47.01,28.86
+San José,Saint-Denis,100,100,9.93,-84.08,-20.88,55.45
+Abidjan,Bucuresti (Bucharest),100,100,5.35,-4.03,44.43,26.1
+Yamoussoukro,Moskva (Moscow),100,100,6.82,-5.28,55.75,37.62
+Zagreb,Kigali,100,100,45.81,15.98,-1.95,30.06
+La Habana (Havana),Jamestown,100,100,23.12,-82.38,-15.94,-5.72
+Willemstad,Basseterre,100,100,12.11,-68.93,17.29,-62.73
+Lefkosia (Nicosia),Castries,100,100,35.16,33.37,14.01,-60.99
+Praha (Prague),Saint-Pierre,100,100,50.09,14.42,46.77,-56.18
+P'yongyang,Kingstown,100,100,39.03,125.75,13.16,-61.22
+Kinshasa,Apia,100,100,-4.33,15.31,-13.83,-171.77
+København (Copenhagen),San Marino,100,100,55.68,12.57,43.93,12.45
+Djibouti,São Tomé,100,100,11.59,43.14,0.34,6.73
+Roseau,Ar-Riyadh (Riyadh),100,100,15.3,-61.39,24.69,46.71
+Santo Domingo,Dakar,100,100,18.49,-69.9,14.69,-17.44
+Quito,Beograd (Belgrade),100,100,-0.23,-78.52,44.82,20.46
+Al-Qahirah (Cairo),Victoria,100,100,30.04,31.24,-4.62,55.45
+San Salvador,Freetown,100,100,13.69,-89.19,8.48,-13.23
+Malabo,Singapore,100,100,3.75,8.78,1.29,103.85
+Asmara,Philipsburg,100,100,15.33,38.93,18.03,-63.05
+Tallinn,Bratislava,100,100,59.44,24.75,48.15,17.11
+Addis Ababa,Ljubljana,100,100,9.02,38.75,46.05,14.51
+Stanley,Honiara,100,100,-51.7,-57.85,-9.43,159.95
+Tórshavn,Muqdisho (Mogadishu),100,100,62.01,-6.77,2.04,45.34
+Suva,Bloemfontein,100,100,-18.14,178.44,-29.12,26.21
+Helsinki,Cape Town,100,100,60.17,24.94,-33.93,18.42
+Paris,Pretoria,100,100,48.85,2.35,-25.74,28.19
+Cayenne,Juba,100,100,4.93,-52.33,4.85,31.58
+Papeete,Madrid,100,100,-17.53,-149.57,40.42,-3.7
+Libreville,Colombo,100,100,0.39,9.45,6.93,79.85
+Banjul,Sri Jayewardenepura Kotte,100,100,13.45,-16.68,6.9,79.91
+Tbilisi,Ramallah,100,100,41.69,44.83,31.9,35.2
+Berlin,Al-Khartum (Khartoum),100,100,52.52,13.41,15.55,32.53
+Accra,Paramaribo,100,100,5.56,-0.2,5.87,-55.17
+Gibraltar,Mbabane,100,100,36.14,-5.35,-26.32,31.13
+Athínai (Athens),Stockholm,100,100,37.95,23.75,59.33,18.06
+Nuuk (Godthåb),Bern,100,100,64.18,-51.72,46.95,7.45
+St.George's,Dimashq (Damascus),100,100,12.06,-61.75,33.51,36.31
+Basse-Terre,Dushanbe,100,100,16,-61.73,38.54,68.78
+Hagåtña,Skopje,100,100,13.48,144.75,42,21.43
+Ciudad de Guatemala (Guatemala City),Krung Thep (Bangkok),100,100,14.61,-90.53,13.72,100.53
+Conakry,Dili,100,100,9.57,-13.65,-8.56,125.57
+Bissau,Lomé,100,100,11.86,-15.6,6.14,1.21
+Georgetown,Tokelau,100,100,6.8,-58.16,-9.38,-171.25
+Port-au-Prince,Nuku'alofa,100,100,18.54,-72.34,-21.14,-175.2
+Vatican City,Port of Spain,100,100,41.9,12.45,10.67,-61.52
+Tegucigalpa,Tunis,100,100,14.08,-87.21,36.82,10.17
+Budapest,Ankara,100,100,47.5,19.04,39.92,32.85
+Reykjavík,Ashgabat,100,100,64.14,-21.9,37.95,58.38
+Delhi,Cockburn Town,100,100,28.67,77.22,21.46,-71.14
+Jakarta,Funafuti,100,100,-6.21,106.84,-8.52,179.2
+Tehran,Kampala,100,100,35.69,51.42,0.32,32.58
+Baghdad,Kyiv (Kiev),100,100,33.34,44.4,50.45,30.52
+Dublin,Abu Zaby (Abu Dhabi),100,100,53.33,-6.25,24.46,54.36
+Douglas,London,100,100,54.15,-4.48,51.51,-0.13
+Jerusalem,Dodoma,100,100,31.77,35.22,-6.17,35.74
+Roma (Rome),"Washington, D.C.",100,100,41.89,12.48,38.9,-77.04
+Kingston,Charlotte Amalie,100,100,18,-76.79,18.34,-64.93
+Tokyo,Montevideo,100,100,35.69,139.69,-34.83,-56.17
+Amman,Tashkent,100,100,31.96,35.95,41.26,69.22
+Astana,Port Vila,100,100,51.18,71.45,-17.73,168.32
+Nairobi,Caracas,100,100,-1.28,36.82,10.49,-66.88
+Tarawa,Hà Noi,100,100,1.33,172.98,21.02,105.84
+Al Kuwayt (Kuwait City),Matu-Utu,100,100,29.35,47.98,-13.28,-176.17
+Bishkek,El Aaiún,100,100,42.87,74.59,27.15,-13.2
+Vientiane,Sana'a',100,100,17.97,102.6,15.35,44.21
+Riga,Lusaka,100,100,56.95,24.11,-15.41,28.28
+Bayrut (Beirut),Harare,100,100,33.9,35.48,-17.83,31.05

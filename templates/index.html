@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" href="../static/style.css">
+		<title>Direct Flight Builder</title>
+		<link rel="shortcut icon" type="image/x-icon" href="https://www.upenn.edu//sites/default/files/favicons/favicon-32x32.png" sizes="32x32">
+	</head>
+	<body>
+		<div class = "header">
+			<h1>Direct Flights Calculator</h1>
+		</div>
+		
+		<div class = "query">
+			<form method = "POST" enctype = "multipart/form-data">
+				<div class="layer">
+					<h3>
+						Location 1<br>Information
+					</h3>
+					<input class = "searchbox" type = "text" placeholder = "Location 1" name = "a"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Latitude" name = "a_lat"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Longtitude" name = "a_lng"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Radius" name = "a_radius"/>
+				</div>
+				<div class="layer">
+					<h3>
+						Location 2<br>Information
+					</h3>
+					<input class = "searchbox" type = "text" placeholder = "Location 2" name = "b"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Latitude" name = "b_lat"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Longitude" name = "b_lng"/>
+					<br>
+					<input class = "searchbox" type = "text" placeholder = "Radius" name = "b_radius" />
+
+				</div>
+				<br>
+				<div class="actions">
+					<input class = "button" type = "submit" name = "add" value= "Add"/>
+					<input class = "button" type = "submit" name = "download" value= "Download"/>
+					<input class = "button" type = "submit" name = "clear" value= "Clear"/>
+				</div>
+				{{ status|safe }}
+				<div class="actions" >
+					<input class = "button" type = "submit" name = "upload" value= "Upload"/>
+					<input class = "button" type = "file" name = "inputquery"/>
+				</div>
+		</form>
+		<br>
+		
+		</div>
+
+		<img align = "middle" src = "http://pluspng.com/img-png/free-png-hd-planes-airplane-png-clipart-5060.png">
+
+		<br>
+		<p class = "footer">Created By: <br><br>
+		Kenneth Shinn - kshinn@sas.upenn.edu<br>
+		Stacey Chen - staceyjc@seas.upenn.edu</p>
+	</body>
+</html>

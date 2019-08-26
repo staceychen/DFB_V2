@@ -1,0 +1,12 @@
+a,b,a_radius,b_radius,a_lat,a_lng,b_lat,b_lng
+university of pennsylvania,santa rosa,100,100,39.9522,-75.1932,38.4404,-122.7141
+san francisco,hong kong,100,100,37.7749,-122.4194,22.3193,114.1694
+london,hong kong,100,100,51.5074,0.1278,22.3193,114.1694
+paris,santa rosa,100,100,48.8566,2.3522,38.4404,-122.7141
+new york,cairo,100,100,40.7128,-74.006,30.0444,31.2357
+new york,reykjavik,100,100,40.7128,-74.006,64.1466,-21.9426
+boston,los angeles,100,100,42.3601,-71.0589,34.0522,-118.2437
+boston,chicago,100,100,42.3601,-71.0589,41.8781,-87.6298
+santa clara,tel aviv,100,100,37.3541,-121.9552,32.0853,34.7818
+the kremlin,the white house,100,100,55.752,37.6175,38.8977,-77.0365
+boston,singapore,100,100,-22.9068,-43.1729,42.3601,-71.0589
